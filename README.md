@@ -27,7 +27,7 @@ Kami menyarankan untuk memilih aplikasi yang dirasa memang tidak terlalu penting
 # List Bloatware
 Berikut adalah list bloatware dari Tecno Pova 5 Pro 5G (LH8N) yang dikelompokkan berdasarkan tingkat keamanan untuk dihapus:
 
-### **Aman untuk Dihapus** (Tidak memengaruhi sistem, hanya aplikasi tambahan)
+### **✅ Aman untuk Dihapus** (Tidak memengaruhi sistem, hanya aplikasi tambahan)
 ```
 com.android.dreams.basic
 com.android.musicfx
@@ -72,7 +72,7 @@ com.transsion.plat.appupdate
 
 ---
 
-### **Tidak Aman untuk Dihapus** (Dapat menyebabkan gangguan ringan pada fitur tertentu)
+### **⚠️ Tidak Aman untuk Dihapus** (Dapat menyebabkan gangguan ringan pada fitur tertentu)
 ```
 com.transsion.multiwindow
 com.transsion.batterylab
@@ -120,7 +120,7 @@ com.transsion.fmradio
 
 ---
 
-### **Berisiko Dihapus** (Dapat menyebabkan bootloop atau sistem tidak stabil)
+### **⛔ Berisiko Dihapus** (Dapat menyebabkan bootloop atau sistem tidak stabil)
 ```
 com.android.ons
 com.android.storagemanager
