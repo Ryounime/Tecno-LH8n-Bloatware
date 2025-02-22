@@ -215,6 +215,7 @@ com.android.google.overlay.modules.permissioncontroller.forframework
 - **Berisiko dihapus**: Bisa menyebabkan bootloop atau sistem crash, hanya hapus jika tahu cara recovery.
 - **Launcher HiOS**: Hanya uninstall jika memang ada launcher pihak ketiga.
 
+***
 
 # Tecno LH8n GApps
 Berikut daftar Google Apps (GApps) yang dikategorikan berdasarkan tingkat keamanan untuk dihapus:
@@ -308,4 +309,35 @@ com.google.android.overlay.gmsconfig.geotz → Bisa menyebabkan error dalam peny
 - **Tidak Aman untuk Dihapus** → Bisa mengganggu fitur tertentu, tapi sistem tetap berjalan.  
 - **Berisiko Dihapus** → Bisa menyebabkan error berat, bootloop, atau hilangnya akses ke layanan Google.
 
-Thanks: 2025|Iofinee
+***
+
+# Implementasi
+Berikut langkah uninstall aplikasi melalui **LADB** dan **script `sh`**:  
+
+### **📌 Menggunakan LADB (Local ADB)**  
+1. **Buka LADB**, izinkan **Debugging Wireless**.  
+2. Masukkan kode berikut untuk uninstall aplikasi, contoh:  
+   ```sh
+   pm uninstall --user 0 com.google.android.play.games
+   ```  
+
+---
+
+### **📌 Menggunakan Shell Script (`sh`)**  
+Buat file script bernama **`uninstall.sh`**, lalu tambahkan:  
+```sh
+#!/system/bin/sh
+pm uninstall --user 0 com.google.android.play.games
+```  
+Jalankan dengan:  
+```sh
+sh uninstall.sh
+```  
+
+---
+
+**📌 Catatan:**  
+- `--user 0` hanya menghapus untuk user utama, aman untuk diuji.  
+- Bisa digunakan untuk aplikasi lain, cukup ganti **package name**.  
+
+Kalau mau batch uninstall, tinggal list package-nya di script.
