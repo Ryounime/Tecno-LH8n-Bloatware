@@ -1,7 +1,30 @@
+# Bloatware disabling untuk Tecno Pova 5 Pro 5G (LH8n)
+
+**PASTIKAN MEMBACA TERLEBIH DAHULU!!!**
+
+Terima kasih sudah membuka repository kami.
+Disini adalah alternatif pengguna non-root untuk menonaktifkan aplikasi sistem dan bloatware 
+Ini bisa diterapkan di pengguna root maupun non-root, tapi **Ingat!!** DWYOR. Jika BOOTLOOP atau sampai HARDBRICK, kami tidak akan bertanggung jawab. 
+Kami menyarankan untuk memilih aplikasi yang dirasa memang tidak terlalu penting saja untuk menonaktifkannya.
+
+***
+
+# 📌 Paduan Umum
+
+## 1️⃣ List Bloatware  
+[🔗 Lihat Daftar Bloatware](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#list-bloatware)
+
+## 2️⃣ GApps  
+[🔗 Lihat Daftar GApps](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#gapps)
+
+## 3️⃣ Implementasi  
+[🔗 Cara Uninstall & Pengelolaan](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#implementasi)
+
+
 ***
 ***
 
-# Tecno LH8n Bloatware List
+# List Bloatware
 Berikut adalah list bloatware dari Tecno Pova 5 Pro 5G (LH8N) yang dikelompokkan berdasarkan tingkat keamanan untuk dihapus:
 
 ### **Aman untuk Dihapus** (Tidak memengaruhi sistem, hanya aplikasi tambahan)
