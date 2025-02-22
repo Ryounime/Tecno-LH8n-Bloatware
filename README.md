@@ -1,3 +1,6 @@
+***
+***
+
 # Tecno LH8n Bloatware List
 Berikut adalah list bloatware dari Tecno Pova 5 Pro 5G (LH8N) yang dikelompokkan berdasarkan tingkat keamanan untuk dihapus:
 
@@ -216,6 +219,7 @@ com.android.google.overlay.modules.permissioncontroller.forframework
 - **Launcher HiOS**: Hanya uninstall jika memang ada launcher pihak ketiga.
 
 ***
+***
 
 # Tecno LH8n GApps
 Berikut daftar Google Apps (GApps) yang dikategorikan berdasarkan tingkat keamanan untuk dihapus:
@@ -309,6 +313,7 @@ com.google.android.overlay.gmsconfig.geotz → Bisa menyebabkan error dalam peny
 - **Tidak Aman untuk Dihapus** → Bisa mengganggu fitur tertentu, tapi sistem tetap berjalan.  
 - **Berisiko Dihapus** → Bisa menyebabkan error berat, bootloop, atau hilangnya akses ke layanan Google.
 
+***
 ***
 
 # Implementasi
