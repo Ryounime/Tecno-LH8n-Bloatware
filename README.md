@@ -15,7 +15,7 @@ Kami menyarankan untuk memilih aplikasi yang dirasa memang tidak terlalu penting
 [🔗 Lihat Daftar Bloatware](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#list-bloatware)
 
 ## 2️⃣ GApps  
-[🔗 Lihat Daftar GApps](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#gapps)
+[🔗 Lihat Daftar GApps](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#gapps-list)
 
 ## 3️⃣ Implementasi  
 [🔗 Cara Uninstall & Pengelolaan](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#implementasi)
@@ -243,7 +243,7 @@ com.android.google.overlay.modules.permissioncontroller.forframework
 ***
 ***
 
-# Tecno LH8n GApps
+# GApps List
 Berikut daftar Google Apps (GApps) yang dikategorikan berdasarkan tingkat keamanan untuk dihapus:
 
 ---
