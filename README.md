@@ -67,7 +67,6 @@ com.transsion.filemanagerx
 com.idea.questionnaire
 com.transsion.kolun.assistant
 com.transsion.calculator
-com.transsion.camera
 com.transsion.plat.appupdate
 ```
 
@@ -106,8 +105,8 @@ com.transsion.dualapp
 com.scorpio.securitycom
 com.transsion.teop
 com.funbase.xradio
+com.transsion.camera
 com.transsion.os.typeface
-com.transsion.gamespace.app
 com.transsion.iotcard
 com.transsion.lightbelt
 com.transsion.microintelligence
