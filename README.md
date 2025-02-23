@@ -11,7 +11,10 @@ This can be applied to both root and non-root users, but **Remember!!** DWYOR. I
 We recommend only disabling apps that are not deemed very important.
 
 ***
+# Language
+[ID](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md)|[•EN](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md)
 
+***
 # 📌 General Guide
 
 ## 1️⃣ Bloatware List  
@@ -34,7 +37,7 @@ We recommend only disabling apps that are not deemed very important.
 
 Here is the list of bloatware from Tecno Pova 5 Pro 5G (LH8N) categorized by the level of safety for removal:
 
-### **✅ Safe to Remove** (Does not affect the system, only additional apps)
+## **✅ Safe to Remove** (Does not affect the system, only additional apps)
 
 ```
 
@@ -120,7 +123,7 @@ com.transsion.plat.appupdate
 
 ---
 
-### **⚠️ Not Safe to Remove** (May cause minor disruption to certain features)
+## **⚠️ Not Safe to Remove** (May cause minor disruption to certain features)
 
 ```
 
@@ -212,7 +215,7 @@ com.transsion.fmradio
 
 ---
 
-### **⛔ Risky to Remove** (May cause bootloop or system instability)
+## **⛔ Risky to Remove** (May cause bootloop or system instability)
 
 ```
 
