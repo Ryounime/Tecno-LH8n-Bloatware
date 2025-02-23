@@ -15,13 +15,13 @@ Kami menyarankan untuk memilih aplikasi yang dirasa memang tidak terlalu penting
 # 📌 Paduan Umum
 
 ## 1️⃣ List Bloatware  
-[🔗 Lihat Daftar Bloatware](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#list-bloatware)
+[🔗 Lihat Daftar Bloatware](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md#list-bloatware)
 
 ## 2️⃣ GApps  
-[🔗 Lihat Daftar GApps](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#gapps-list)
+[🔗 Lihat Daftar GApps](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md#gapps-list)
 
 ## 3️⃣ Implementasi  
-[🔗 Cara Uninstall & Pengelolaan](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#implementasi)
+[🔗 Cara Uninstall & Pengelolaan](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md#implementasi)
 
 
 ***
