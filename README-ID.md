@@ -8,7 +8,10 @@ Ini bisa diterapkan di pengguna root maupun non-root, tapi **Ingat!!** DWYOR. Ji
 Kami menyarankan untuk memilih aplikasi yang dirasa memang tidak terlalu penting saja untuk menonaktifkannya.
 
 ***
+# Bahasa
+[•ID](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md)|[EN](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md)
 
+***
 # 📌 Paduan Umum
 
 ## 1️⃣ List Bloatware  
@@ -335,7 +338,6 @@ com.google.android.overlay.gmsconfig.geotz → Bisa menyebabkan error dalam peny
 - **Tidak Aman untuk Dihapus** → Bisa mengganggu fitur tertentu, tapi sistem tetap berjalan.  
 - **Berisiko Dihapus** → Bisa menyebabkan error berat, bootloop, atau hilangnya akses ke layanan Google.
 
-***
 ***
 
 # Implementasi
