@@ -24,7 +24,7 @@ We recommend only disabling apps that are not deemed very important.
 
 ## 3️⃣ Implementation  
 
-[🔗 How to Uninstall & Management](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#implementasi)
+[🔗 How to Uninstall & Management](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md#implementation)
 
 ***
 
@@ -433,6 +433,7 @@ com.android.google.overlay.modules.settings
 com.android.google.overlay.modules.documentsui  
 
 com.android.google.overlay.modules.permissioncontroller.forframework  
+```
 
 ---
 
