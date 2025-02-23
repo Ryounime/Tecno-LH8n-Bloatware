@@ -257,9 +257,7 @@ com.android.settings
 
 com.android.settings.resoverlay
 
-com.android.settings.
-
-```intelligence  
+com.android.settings.intelligence  
 
 com.android.permissioncontroller  
 
