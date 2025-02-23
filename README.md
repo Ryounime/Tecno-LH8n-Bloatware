@@ -620,8 +620,6 @@ com.google.android.overlay.gmsconfig.geotz → Could cause errors in location-ba
 
 ***
 
-***
-
 # Implementation
 
 Here are the steps to uninstall applications via **LADB** and **script `sh`**:### **📌 Using LADB (Local ADB)**  
