@@ -37,7 +37,8 @@ We recommend only disabling apps that are not deemed very important.
 
 Here is the list of bloatware from Tecno Pova 5 Pro 5G (LH8N) categorized by the level of safety for removal:
 
-## **✅ Safe to Remove** (Does not affect the system, only additional apps)
+## **✅ Safe to Remove** 
+_(*Does not affect the system, only additional apps*)_
 
 ```
 
@@ -123,7 +124,8 @@ com.transsion.plat.appupdate
 
 ---
 
-## **⚠️ Not Safe to Remove** (May cause minor disruption to certain features)
+## **⚠️ Not Safe to Remove** 
+_(*May cause minor disruption to certain features*)_
 
 ```
 
@@ -215,7 +217,8 @@ com.transsion.fmradio
 
 ---
 
-## **⛔ Risky to Remove** (May cause bootloop or system instability)
+## **⛔ Risky to Remove**
+_(*May cause bootloop or system instability*)_
 
 ```
 
