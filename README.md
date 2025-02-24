@@ -12,7 +12,7 @@ We recommend only disabling apps that are not deemed very important.
 
 ***
 # Language
-[ID](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md)|[•EN](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md)
+[ID](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md)|[•EN](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main)
 
 ***
 # 📌 General Guide
