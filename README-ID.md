@@ -9,7 +9,7 @@ Kami menyarankan untuk memilih aplikasi yang dirasa memang tidak terlalu penting
 
 ***
 # Bahasa
-[•ID](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md)|[EN](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README.md)
+[•ID](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main/README-ID.md)|[EN](https://github.com/Ryounime/Tecno-LH8n-Bloatware/blob/main)
 
 ***
 # 📌 Paduan Umum
